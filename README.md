@@ -4,7 +4,7 @@ Papers on Uncertainty Quantification for Large Language models.
 
 ## Uncertainty
 <details>
-<summary><strong>Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs</strong> — (Vazhentsev et al, 2025)</summary>
+<summary><i>Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs</i> — (Vazhentsev et al, 2025)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -13,7 +13,7 @@ A few lines describing the core ideas.
 </details>
 
 <details>
-<summary><strong>A Survey on Uncertainty Quantification of Large Language Models: Taxonomy, Open Research Challenges, and Future Directions</strong> — (Shorinwa et al, 2024)</summary>
+<summary><i>A Survey on Uncertainty Quantification of Large Language Models: Taxonomy, Open Research Challenges, and Future Directions</i> — (Shorinwa et al, 2024)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -22,7 +22,7 @@ A few lines describing the core ideas.
 </details>
 
 <details>
-<summary><strong>Benchmarking LLMs via Uncertainty Quantification</strong> — (Ye et al, 2024)</summary>
+<summary><i>Benchmarking LLMs via Uncertainty Quantification</i> — (Ye et al, 2024)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -31,7 +31,7 @@ A few lines describing the core ideas.
 </details>
 
 <details>
-<summary><strong>Uncertainty Estimation and Quantification for LLMs: A Simple  Supervised Approach</strong> — (Liu et al., 2024)</summary>
+<summary><i>Uncertainty Estimation and Quantification for LLMs: A Simple  Supervised Approach</i> — (Liu et al., 2024)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -40,7 +40,7 @@ A few lines describing the core ideas.
 </details>
 
 <details>
-<summary><strong>Conformal Prediction with Large Language Models for Multi-Choice Question Answering</strong> — (Kumar et al, 2023)</summary>
+<summary><i>Conformal Prediction with Large Language Models for Multi-Choice Question Answering</i> — (Kumar et al, 2023)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -51,7 +51,7 @@ A few lines describing the core ideas.
 
 ## Hallucinations
 <details>
-<summary><strong>Why Language Models Hallucinate</strong> — (Kalai et al, 2025)</summary>
+<summary><i>Why Language Models Hallucinate</i> — (Kalai et al, 2025)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -64,7 +64,7 @@ A few lines describing the core ideas.
 
 ### Sinks
 <details>
-<summary><strong>What are you sinking? A geometric approach on attention sink</strong> — (Ruscio et al, 2025)</summary>
+<summary><i>What are you sinking? A geometric approach on attention sink</i> — (Ruscio et al, 2025)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -73,7 +73,7 @@ A few lines describing the core ideas.
 </details>
 
 <details>
-<summary><strong>Why do LLMs attend to the first token?</strong> — (Barbero et al., 2025)</summary>
+<summary><i>Why do LLMs attend to the first token?</i> — (Barbero et al., 2025)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -82,7 +82,7 @@ A few lines describing the core ideas.
 </details>  
 
 <details>
-<summary><strong>Efficient Streaming Language Models with Attention Sinks</strong> — (Xiao et al, 2024)</summary>
+<summary><i>Efficient Streaming Language Models with Attention Sinks</i> — (Xiao et al, 2024)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
@@ -93,7 +93,7 @@ A few lines describing the core ideas.
 
 ## MCQA
 <details>
-<summary><strong>Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering</strong> — (Molfese et al, 2025)</summary>
+<summary><i>Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering</i> — (Molfese et al, 2025)</summary>
 
 **Summary:**  
 A few lines describing the core ideas.
