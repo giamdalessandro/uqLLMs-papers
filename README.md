@@ -1,6 +1,6 @@
 ## Uncertainty
 <table> 
-    <thead> <tr><th>Title</th> <th>Authors</th> <th>Year</th> <th>Summary</th> <th>Links</th> </tr> </thead> 
+    <thead> <tr><th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead> 
     <tbody> 
         <tr><td>
             <em>Uncertainty-Aware Attention Heads: Efficient Unsupervised Uncertainty Quantification for LLMs</em></td> <td>Vazhentsev et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2505.20045">PDF</a> · <a href="#">Code</a> </td> </tr> 
@@ -22,7 +22,7 @@
 
 ## Hallucinations
 <table> 
-    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>Summary</th> <th>Links</th> </tr> </thead> 
+    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead> 
     <tbody> 
         <tr><td>
             <em>Why Language Models Hallucinate</em></td> <td>Kalai et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2509.04664">PDF</a> · <a href="#">Code</a> 
@@ -30,12 +30,22 @@
     </tbody>
 </table>
 
+## MCQA
+<table> 
+    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead> 
+    <tbody> 
+        <tr><td>
+            <em>Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering</em></td> <td>Molfese et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2503.14996">PDF</a> · <a href="#">Code</a> 
+        </td></tr> 
+    </tbody>
+</table>
 
-## Attention Maps
+
+## Bonus: Attention Maps
 
 ### Sinks
 <table> 
-    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>Summary</th> <th>Links</th> </tr> </thead>
+    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead>
     <tbody> 
         <tr><td>
             <em>What are you sinking? A geometric approach on attention sink</em></td> <td>Ruscio et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2508.02546">PDF</a> · <a href="#">Code</a> 
@@ -47,14 +57,4 @@
             <em>Efficient Streaming Language Models with Attention Sinks</em></td> <td>Xiao et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2309.17453">PDF</a> · <a href="https://github.com/mit-han-lab/streaming-llm">Code</a>
         </td></tr> 
     </tbody> 
-</table>
-
-## MCQA
-<table> 
-    <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>Summary</th> <th>Links</th> </tr> </thead> 
-    <tbody> 
-        <tr><td>
-            <em>Right Answer, Wrong Score: Uncovering the Inconsistencies of LLM Evaluation in Multiple-Choice Question Answering</em></td> <td>Molfese et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2503.14996">PDF</a> · <a href="#">Code</a> 
-        </td></tr> 
-    </tbody>
 </table>
