@@ -41,9 +41,11 @@
 </table>
 
 
-## Bonus: Attention Maps
+## Bonus
 
-### Sinks
+### Attention maps
+
+#### Sinks
 <table> 
     <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead>
     <tbody> 
