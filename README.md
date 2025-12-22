@@ -57,7 +57,7 @@
     <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead>
     <tbody> 
         <tr><td>
-            <em>Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps</em></td> <td>Ruscio et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/voidism/Lookback-Lens">Code</a> 
+            <em>Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps</em></td> <td>Chuang et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/voidism/Lookback-Lens">Code</a> 
         </td></tr>
     </tbody> 
 </table>
