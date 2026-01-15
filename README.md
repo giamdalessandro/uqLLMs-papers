@@ -34,6 +34,11 @@
             <a href="https://arxiv.org/pdf/2509.04664">PDF</a> · <a href="#">Code</a> 
         </td></tr> 
     </tbody>
+    <tbody> 
+        <tr><td>
+            <em>Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps</em></td> <td>Chuang et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/voidism/Lookback-Lens">Code</a> 
+        </td></tr>
+    </tbody> 
 </table>
 
 ## MCQA
@@ -50,20 +55,16 @@
 
 ## Bonus
 
-### Attention maps
+<!-- ### Attention maps
 
 #### Parsing
 <table> 
     <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead>
-    <tbody> 
-        <tr><td>
-            <em>Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps</em></td> <td>Chuang et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/voidism/Lookback-Lens">Code</a> 
-        </td></tr>
-    </tbody> 
-</table>
+    
+</table> -->
 
 
-#### Sinks
+#### Attention Sinks
 <table> 
     <thead> <tr> <th>Title</th> <th>Authors</th> <th>Year</th> <th>TLDR</th> <th>Links</th> </tr> </thead>
     <tbody> 
@@ -73,8 +74,8 @@
         <tr><td>
             <em>Why do LLMs attend to the first token?</em></td> <td>Barbero et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2504.02732">PDF</a> · <a href="#">Code</a> 
         </td></tr> 
-        <tr><td>
+        <!-- <tr><td>
             <em>Efficient Streaming Language Models with Attention Sinks</em></td> <td>Xiao et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/pdf/2309.17453">PDF</a> · <a href="https://github.com/mit-han-lab/streaming-llm">Code</a>
-        </td></tr> 
+        </td></tr>  -->
     </tbody> 
 </table>
