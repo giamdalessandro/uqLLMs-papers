@@ -44,6 +44,11 @@
         <tr><td>
             <em>Lookback Lens: Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps</em></td> <td>Chuang et al.</td> <td>2024</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/voidism/Lookback-Lens">Code</a> 
         </td></tr>
+    </tbody>
+    <tbody> 
+        <tr><td>
+            <em>LLMs Know More Than They Show: On the Intrinsic Representation of LLM Hallucinations</em></td> <td>Orgad et al.</td> <td>2025</td> <td> <details> <summary>Show summary</summary> A few lines describing the core ideas. </details> </td> <td> <a href="https://arxiv.org/abs/2407.07071">PDF</a> · <a href="https://github.com/technion-cs-nlp/LLMsKnow">Code</a> 
+        </td></tr>
     </tbody> 
 </table>
 
